@@ -68,3 +68,15 @@ footer {
   color: #fff;
   margin-top: 30px;
 }
+/* Remove underline for all links */
+a {
+  text-decoration: none;
+  color: #0077cc; /* choose your preferred color */
+}
+
+/* Optional: underline only on hover */
+a:hover {
+  text-decoration: underline;
+}
+
+
